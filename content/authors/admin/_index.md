@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Florian Sestak  
 
 # Name pronunciation (optional)
-name_pronunciation: Florian Sestak  
+name_pronunciation: #Florian Sestak  
 
 # Full name (for SEO)
 first_name: Florian 
