@@ -106,6 +106,6 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Florian. I am a PhD student in the field of Machine Learning at the Institute for Machine Learning at Johannes Kepler University, Linz, Austria, in the Team of Günter Klambauer.  Previously, I did my master’s studies in Bioinformatics at the Johannes Kepler Universtiy in Linz.
+Hi, I am Florian. I am a **PhD student** in the field of Machine Learning at the Institute for Machine Learning at Johannes Kepler University, Linz, Austria, in the Team of Günter Klambauer.  Previously, I did my master’s studies in Bioinformatics at the Johannes Kepler Universtiy in Linz.
 
 {style="text-align: justify;"}
