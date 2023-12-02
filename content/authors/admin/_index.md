@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student of Artificial Intelligence 
+role: PhD student in Artificial Intelligence 
 
 # Organizations/Affiliations to show in About widget
 organizations:
