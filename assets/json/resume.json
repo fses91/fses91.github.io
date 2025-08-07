@@ -72,18 +72,24 @@
   "publications": [
     {
       "name": "LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities",
+      "publisher": "",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2502.12128",
+      "summary": ""
     },
     {
       "name": "Gnn-vpa: A variance-preserving aggregation strategy for graph neural networks",
+      "publisher": "",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2403.04747",
+      "summary": ""
     },
     {
       "name": "Vn-egnn: E (3)-equivariant graph neural networks with virtual nodes enhance protein binding site identification",
+      "publisher": "",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2404.07194",
+      "summary": ""
     }
   ],
   "skills": [
