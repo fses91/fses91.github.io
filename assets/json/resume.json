@@ -47,6 +47,15 @@
   ],
   "education": [
     {
+      "institution": "Fachhochschule Wiener Neustadt",
+      "location": "Wiener Neustadt",
+      "url": "https://www.fhwn.ac.at",
+      "area": "Informatik",
+      "studyType": "BSc",
+      "endDate": "2016",
+      "courses": []
+    },
+    {
       "institution": "Johannes Kepler University",
       "location": "Linz",
       "url": "https://www.jku.at",
@@ -55,15 +64,6 @@
       "endDate": "2021",
       "courses": []
     },
-    {
-      "institution": "Fachhochschule Wiener Neustadt",
-      "location": "Wiener Neustadt",
-      "url": "https://www.fhwn.ac.at",
-      "area": "Informatik",
-      "studyType": "BSc",
-      "endDate": "2016",
-      "courses": []
-    }
   ],
   "awards": [
   ],
