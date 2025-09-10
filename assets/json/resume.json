@@ -1,18 +1,17 @@
 {
   "basics": {
     "name": "Florian Sestak",
-    "label": "Scientist",
+    "label": "",
     "image": "",
-    "email": "florian.sestak@jku.at",
-    "phone": "",
-    "url": "https://fses91.github.io",
-    "summary": "A Austrian-born computer scientist, with passion in generative modeling.",
+    "email": "florian.sestak@gmail.com",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Austria",
-      "countryCode": "AT",
-      "region": "Vienna"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
@@ -24,13 +23,31 @@
   },
   "work": [
     {
-      "name": "Johannes Kepler University Linz",
-      "position": "Scientific Stuff",
-      "url": "https://www.jku.at",
-      "startDate": "2022",
-      "endDate": "",
-      "summary": "",
-      "highlights": ["AI"]
+      "name": "Siemens",
+      "position": "Data Scientist",
+      "url": "https://www.siemens.com",
+      "startDate": "2017-06-01",
+      "endDate": "2018-02-01",
+      "summary": "Customer Analytics",
+      "highlights": []
+    },
+    {
+      "name": "Spatial Focus",
+      "position": "Software Engineer",
+      "url": "https://www.spatial-focus.net",
+      "startDate": "2016-03-01",
+      "endDate": "2016-05-01",
+      "summary": "C#, ASP.NET MVC, SQL, PostgreSQL",
+      "highlights": []
+    },
+    {
+      "name": "Fotec",
+      "position": "Software Engineer",
+      "url": "https://www.fotec.at",
+      "startDate": "2015-08-01",
+      "endDate": "2016-08-01",
+      "summary": "C#, ASP.NET MVC, SQL, Telerik, Javascript, Xamarin Forms, Xamarin iOS, Xamarin Android",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -40,8 +57,8 @@
       "institution": "Fachhochschule Wiener Neustadt",
       "location": "Wiener Neustadt",
       "url": "https://www.fhwn.ac.at",
-      "area": "Informatik",
-      "studyType": "BSc",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
       "endDate": "2016",
       "courses": []
     },
@@ -50,10 +67,10 @@
       "location": "Linz",
       "url": "https://www.jku.at",
       "area": "Bioinformatics",
-      "studyType": "MSc",
+      "studyType": "Master of Science",
       "endDate": "2021",
       "courses": []
-    },
+    }
   ],
   "awards": [
   ],
@@ -85,16 +102,6 @@
   "skills": [
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
   ],
   "interests": [
     {
@@ -103,15 +110,24 @@
       "keywords": [
         "Generative Modeling",
         "Diffusion Models",
-        "Flow Matching"
+        "Flow Matching",
+        "Bayesian Inference"
       ]
     },
     {
-      "name": "Phycisc",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "PDEs",
         "Fluid Dynamics"
+      ]
+    },
+    {
+      "name": "Biology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Structural Biology",
+        "Molecular Dynamics"
       ]
     }
   ],
