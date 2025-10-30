@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Florian Sestak",
-    "label": "",
+    "label": "Scientist",
     "image": "",
     "email": "florian.sestak@gmail.com",
-    "url": "",
-    "summary": "",
+    "url": "https://fses91.github.io",
+    "summary": "PhD candidate in Artificial Intelligence",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "AT",
+      "region": "Austria"
     },
     "profiles": [
       {
@@ -23,12 +23,30 @@
   },
   "work": [
     {
+      "name": "Johannes Kepler University",
+      "position": "Research Scientist (Phd student)",
+      "url": "https://www.jku.at",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "Artificial Intelligence and Machine Learning in Biology and Physics",
+      "highlights": []
+    },
+    {
+      "name": "7LYTIX",
+      "position": "Data Scientist",
+      "url": "https://www.siemens.com",
+      "startDate": "2019-11-01",
+      "endDate": "2021-08-01",
+      "summary": "Applied Machine Learning",
+      "highlights": []
+    },
+    {
       "name": "Siemens",
       "position": "Data Scientist",
       "url": "https://www.siemens.com",
       "startDate": "2017-06-01",
-      "endDate": "2018-02-01",
-      "summary": "Customer Analytics",
+      "endDate": "2019-07-01",
+      "summary": "Customer Analytics and Sensor Data Analysis",
       "highlights": []
     },
     {
@@ -50,11 +68,10 @@
       "highlights": []
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "Fachhochschule Wiener Neustadt",
+      "institution": "University of Applied Sciences Wiener Neustadt",
       "location": "Wiener Neustadt",
       "url": "https://www.fhwn.ac.at",
       "area": "Computer Science",
@@ -70,12 +87,19 @@
       "studyType": "Master of Science",
       "endDate": "2021",
       "courses": []
+    },
+    {
+      "institution": "Johannes Kepler University",
+      "location": "Linz",
+      "url": "https://www.jku.at",
+      "area": "Artificial Intelligence",
+      "studyType": "PhD (ongoing)",
+      "endDate": "",
+      "courses": []
     }
   ],
-  "awards": [
-  ],
-  "certificates": [
-  ],
+  "awards": [],
+  "certificates": [],
   "publications": [
     {
       "name": "LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities",
@@ -99,40 +123,25 @@
       "summary": ""
     }
   ],
-  "skills": [
-  ],
-  "languages": [
-  ],
+  "skills": [],
+  "languages": [],
   "interests": [
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Generative Modeling",
-        "Diffusion Models",
-        "Flow Matching",
-        "Bayesian Inference"
-      ]
+      "keywords": ["Generative Modeling", "Diffusion Models", "Flow Matching", "Bayesian Inference"]
     },
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "PDEs",
-        "Fluid Dynamics"
-      ]
+      "keywords": ["PDEs", "Fluid Dynamics"]
     },
     {
       "name": "Biology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Structural Biology",
-        "Molecular Dynamics"
-      ]
+      "keywords": ["Structural Biology", "Molecular Dynamics"]
     }
   ],
-  "references": [
-  ],
-  "projects": [
-  ]
+  "references": [],
+  "projects": []
 }
